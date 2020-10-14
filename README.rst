@@ -3,9 +3,9 @@ Temprature logger
 #################################
 Temprature logger based on STM32F4 DISCOVERY and GlobalLogic Starter Kit
 Device capabilities:
-    Recording data from analog tempreture sensor to external Flash storage;
-    Two tempreture modes (Farenheit - Celcium);
-    Trigger mode(recording starts when the temperature is outside the range of acceptable values);
+    | Recording data from analog tempreture sensor to external Flash storage;
+    | Two tempreture modes (Farenheit - Celcium);
+    | Trigger mode(recording starts when the temperature is outside the range of acceptable values);
     
 Requirements
 ************
