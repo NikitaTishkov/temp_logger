@@ -40,4 +40,4 @@ License
 Contact information
 *******************
 Should you have questions, feel free to contact me via Telegram
-(`@thodnev <https://t.me/thodnev>`_) or e-mail (thodnev <at> xinity.dev)
+(`@nik_tishkov <https://t.me/nik_tishkov>`_) or e-mail (nikitatishkov77@gmail.com)
